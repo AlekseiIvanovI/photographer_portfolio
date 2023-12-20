@@ -1,3 +1,5 @@
+![Screenshot 2023-12-19 223243](https://github.com/AlekseiIvanovI/photographer_portfolio/assets/149438366/2052b4e1-2972-4c7a-aa65-597f7611ff38)
+
 ![image](https://github.com/AlekseiIvanovI/photographer_portfolio/assets/149438366/cbe83cb3-0ef8-4b03-9c5b-8b0477603a12)
 
 
