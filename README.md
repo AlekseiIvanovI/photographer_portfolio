@@ -1,4 +1,8 @@
+![image](https://github.com/AlekseiIvanovI/photographer_portfolio/assets/149438366/cbe83cb3-0ef8-4b03-9c5b-8b0477603a12)
+
+
 # Photographer Portfolio Website
+
 
 This repository contains the source code and assets for my photography portfolio website. The website showcases my photography work, skills, and services as a professional photographer.
 
